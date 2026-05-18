@@ -35,4 +35,5 @@ dependencies = [
     "tqdm>=4.67.3",
     "unstructured[all-docs]>=0.18.32",
     "yfiles-jupyter-graphs>=1.10.10",
+    "ipykernel",
 ]
